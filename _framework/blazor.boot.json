@@ -1,7 +1,7 @@
 {
   "entryAssembly": "SistemaVentaBlazor.Client",
   "resources": {
-    "hash": "sha256-7eXt73+laPdRnKLN3o27p5mwbPwtOAO9kWM2B5nWXac=",
+    "hash": "sha256-wzIn/I5KAB1vE4EudJCWA199FCnYRiIH8LEf9qz8nB4=",
     "runtime": {
       "dotnet.js": "sha256-0WJiSpPpS88OGUmkRP53MwO7ntyCJ2vOVbDiqeyL6SE=",
       "dotnet.wasm": "sha256-IXKR0sWx4VUKoEpog/8ZsQ+A4Tn4kkB91z2pecPZS3I=",
@@ -38,7 +38,7 @@
       "Microsoft.JSInterop.dll": "sha256-ZFNbhVOGmS9xYtbDOkCBa9VD8nN/HSGZkCQrpOxuNJg=",
       "MudBlazor.dll": "sha256-VwdyTwdJEFq7mEL3JVMrDSxScJ9lWpe+i7lqkK0GXUc=",
       "Newtonsoft.Json.dll": "sha256-IsZJ91/OW+fHzNqIgEc7Y072ns8z9dGritiSyvR9Wgc=",
-      "SistemaVentaBlazor.Client.dll": "sha256-tVsg7G8F4ydJPLuUzZMzfeQKsa/RE+JsS1q44VDirpE=",
+      "SistemaVentaBlazor.Client.dll": "sha256-iMb2td59noT1Y4dVxDkqAQ7aZ1MPW5hnLhsu4v4SxVk=",
       "SistemaVentaBlazor.Shared.dll": "sha256-txAxLLLN6j/d8fHJlxlHk/kYjiXnPNSPBxDjNViGM2c=",
       "SixLabors.Fonts.dll": "sha256-60LFKeQjsKuGgGML5YFJUjVw1J1WLLzYWBqs2DGShqY=",
       "System.Buffers.dll": "sha256-9wuRLWl78GUSZydVeNhGO5Hng/3inJsXSYUmaLo6D8M=",
